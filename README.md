@@ -78,7 +78,4 @@ Power BI dashboard provides:
 
 ---
 
-## 🔗 Future Improvements
-- Add machine learning for prediction  
-- Deploy dashboard online  
-- Automate ETL pipeline  
+
